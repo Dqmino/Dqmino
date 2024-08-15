@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Domino</h1>
 <h3 align="center">A passionate java developer</h3>
 
-- 🔭 I’m currently working on **Medical Engine**
+- 🔭 I’m currently working on **Medical Engine**, a search engine for human diseases.
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dominoisadev@gmail.com**
 
-- 📄 Know about my experiences [https://domino.codes](https://domino.codes)
+- 📄 Know about my experiences [https://domino.codes](https://domino.codes) (WIP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
