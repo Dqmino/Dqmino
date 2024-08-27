@@ -12,6 +12,8 @@
 - 📫 How to reach me **dominoisadev@gmail.com**
 
 - 📄 Know about my experiences [https://domino.codes](https://domino.codes) (WIP)
+  
+- 😄 If one of my projects is empty, it means it's for private use, however I'd still like people to know I've made it :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
