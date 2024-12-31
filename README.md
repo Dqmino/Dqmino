@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Rust/Java developer from India</h3>
+<h3 align="center">A passionate Rust/Java developer</h3>
 
 - 🔭 I’m currently working on [A Blackjack remake in Rust](https//github.com/Dqmino/Blackjack4R)
 
